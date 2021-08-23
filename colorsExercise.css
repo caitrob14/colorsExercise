@@ -1,0 +1,43 @@
+h1 {
+    color: mediumorchid;
+    background-color: red;
+}
+h2 {
+    color: #11AAFF;
+    background-color: orange;
+}
+h3 {
+    color: #1AF;
+background-color: yellow;
+}
+
+h4 {
+    color: #11EE22ff;
+    background-color: green;
+}
+
+h5 {
+    color: #1E2f;
+    background-color: blue;
+}   
+
+h6 {
+    color: rgb(24, 14, 114);
+    background-color: indigo;
+}
+
+P {
+    color: rgba(115, 33, 06, 1);
+    background-color: violet;
+}
+.listItemOne {
+    color: hotpink
+}
+.listItemThree {
+    background-color: peachpuff;
+}
+.forBorder {
+    border: green;
+    border-width: 5px;
+    border-style: solid;
+}
